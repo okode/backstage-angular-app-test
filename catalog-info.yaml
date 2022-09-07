@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: angular-app-backstage-test
+  description: Prueba de concepto registrar una app de angular en backstage
+    
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guest

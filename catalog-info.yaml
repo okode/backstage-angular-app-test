@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: angular-app-backstage-test
   description: Prueba de concepto registrar una app de angular en backstage
+  annotations:
+    backstage.io/techdocs-ref: dir:.
     
 spec:
   type: website
